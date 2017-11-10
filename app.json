@@ -1,6 +1,6 @@
 {
-  "name": "Webhook-echo-sample",
+  "name": "bob-Webhook",
   "description": "Webhook echo sample",
-  "repository": "https://github.com/SunilSyal/Webhook-and-API.AI-Samples.git",
+  "repository": "https://github.com/kumar-rahul/bobwebhook.git",
   "keywords": ["api.ai", "natural language"]
 }
